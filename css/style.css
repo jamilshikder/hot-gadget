@@ -1,0 +1,8 @@
+.slider-bg{background: url("../images/bg-2.png") no-repeat; background-position: left;}
+.slider-bg2{background: url("../images/bg-1.png") no-repeat; background-position: center;}
+.carousel-control-next{color: blue;}
+.smartphone a{text-decoration:none; color: #FF9D00;}
+.categories h1{border-bottom: 5px solid #F47C00;}
+.footer-bg{background-color: #FEEAE9;}
+.input-email{width: 400px; height: 40px; border-radius: 10px; border: none;}
+.send-email{position: relative; left: -55px; background-color: #FF247A; border: none; padding: 8px 25px; border-radius: 0px 5px 5px 0px;}
